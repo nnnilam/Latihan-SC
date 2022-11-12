@@ -29,7 +29,9 @@ install.packages("rmarkdown")
 
 4.  Terakhir, peserta juga diharapkan menginstal *pandoc* yang merupakan
     perangkat digunakan oleh rmarkdown untuk mengkonversi ke berbagai
-    format. Klik link berikut dan ikut perintahnya untuk mengistal.
+    format. Klik link berikut ini [download
+    pandoc](https://pandoc.org/installing.html) dan instal aplikasi
+    tersebut.
 
 ## Setting GitHub account
 
