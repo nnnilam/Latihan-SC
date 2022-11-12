@@ -15,12 +15,13 @@ Riki Herliansyah,
     RStudio. RStudio merupakan salah satu alternatif interface yang
     digunakan untuk mengedit coding. RStudio memiliki 4 jendela utama
     yaitu R editor (R Console), jendela R Script, jendela grafik dan
-    infarmasi lain seperti packages serta yang terakhir jendela
-    environment. Silahkan download RStudio disini.
+    informasi lain seperti packages serta yang terakhir jendela
+    environment. Silahkan download RStudio
+    [disini](https://posit.co/download/rstudio-desktop/).
 
 3.  Setelah kedua perangkat terinstall, kita akan membutuhkan package
     rmarkdown untuk membuat dokumen baik itu dokumen presentasi, MS word
-    atau html. Buka RStudio yang diisntal, kemudian pada R Console
+    atau html. Buka RStudio yang telah diisntal, kemudian pada R Console
     ketikkan perintah berikut:
 
 ``` r
@@ -28,8 +29,8 @@ install.packages("rmarkdown")
 ```
 
 4.  Terakhir, peserta juga diharapkan menginstal *pandoc* yang merupakan
-    perangkat digunakan oleh rmarkdown untuk mengkonversi ke berbagai
-    format. Klik link berikut ini [download
+    perangkat yang digunakan oleh rmarkdown untuk mengkonversi dokumen
+    ke berbagai format. Klik link berikut ini [download
     pandoc](https://pandoc.org/installing.html) dan instal aplikasi
     tersebut.
 
@@ -49,7 +50,7 @@ pengaturan *GitHub*.
     langkah berikut untuk menginstal Git
     [disini](https://git-scm.com/download/win). Kemudian, pilih *Click
     here to download*. Pada saat proses instalasi, centang opsi default
-    karena akan beberapa kali ditanya.
+    pada setiap pengaturan yang muncul.
 
 3.  Untuk pengguna Linux atau Mac, instalasi Git agak sedikit sulit
     karena harus ada beberapa set-up yang dilakukan. Karena terbatasnya
