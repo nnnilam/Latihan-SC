@@ -45,7 +45,7 @@ pengaturan *GitHub*.
 2.  Untuk bisa menggunakan GitHub, peserta juga harus melakukan
     instalasi perangkat *Git*. Jika pengguna Windows, silahkan ikut
     langkah berikut untuk menginstal Git
-    [click](https://git-scm.com/download/win). Kemudian, pilih *Click
+    [disini](https://git-scm.com/download/win). Kemudian, pilih *Click
     here to download*. Pada saat proses instalasi, centang opsi default
     karena akan beberapa kali ditanya.
 
@@ -71,10 +71,10 @@ ini di awal Workshop.
 
 ![](img/jendelaterminal.png)<!-- -->
 
-2.  Kemudian ketikkan perintah berikut **git –version** untuk memeriksa
-    apakah Git sudah terinstal pada laptop kita. Jika Git telah
-    terinstal dengan baik, maka setelah kita menekan tombol Enter, akan
-    muncul versi Git yang telah terinstal.
+2.  Kemudian ketikkan perintah berikut **git –version** (dua buah -)
+    untuk memeriksa apakah Git sudah terinstal pada laptop kita. Jika
+    Git telah terinstal dengan baik, maka setelah kita menekan tombol
+    Enter, akan muncul versi Git yang telah terinstal.
 
 3.  Selanjutnya, ketikkan perintah berikut satu per satu di jendela
     terminal.
@@ -84,3 +84,7 @@ git config --global user.name 'usernama GitHub anda'
 git config --global user.email 'Email GitHub'
 git config --global --list
 ```
+
+4.  Jika tidak ada kendala, maka hasilnya akan muncul seperti ini.
+
+![](img/terminalgit.png)<!-- -->
