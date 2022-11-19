@@ -2,7 +2,7 @@
 title: "Pelatihan R Bersama HIMASTA"
 subtitle: "GitHub dan Basic R"
 #author: "Team name <br> Names of team members"
-author: "Nilam Banne Bara"
+author: "Nilam Banne"
 institute: "Ikatan Keluarga Alumni Statistika (IKAS)"
 date: "`r Sys.Date()`"
 output:
